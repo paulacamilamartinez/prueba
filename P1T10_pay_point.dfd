@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+120
+"SOFTPAY-POINT  Maker: paula camila This software allows you to get 19% of the VAT from four products type the products"
+4
+1
+13
+"v_product_1"
+5
+1
+9
+v_value_1
+4
+1
+13
+"v_product_2"
+5
+1
+9
+v_value_2
+4
+1
+13
+"v_product_3"
+5
+1
+9
+v_value_3
+4
+1
+13
+"v_product_4"
+5
+1
+9
+v_value_4
+6
+1
+3
+sum
+44
+v_value_1 + v_value_2 + v_value_3 +v_value_4
+4
+1
+36
+"the value of the products is: ",sum
+4
+1
+32
+"type the value of the products"
+5
+1
+7
+v_total
+6
+2
+5
+iva_v
+14
+v_total * 0.19
+7
+v_total
+15
+v_total + iva_v
+4
+1
+51
+"the iva is: ",iva_v, "The total price is:",v_total
+1

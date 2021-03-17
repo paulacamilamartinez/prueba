@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+91
+"soft-sum v1.0 maker: Paula Camila Martinez this software calculate an add a three numbers"
+4
+1
+10
+"Number 1"
+5
+1
+8
+ Number1
+4
+1
+10
+"Number 2"
+5
+1
+7
+Number2
+4
+1
+10
+"Number 3"
+5
+1
+7
+Number3
+6
+1
+3
+sum
+23
+Number1+Number2+Number3
+4
+1
+19
+"the sum is: ", sum
+1
